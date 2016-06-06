@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VisualStudioOnline.Api.Rest.Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="ProjectName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="DefaultUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">test</Value>
+    </Setting>
+    <Setting Name="ProjectId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000000-0000-0000-0000-000000000000</Value>
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestToken</Value>
+    </Setting>
+    <Setting Name="WorkItemId" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="WorkItemRevision" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CommitId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000000000000000000000000000000000000000</Value>
+    </Setting>
+    <Setting Name="FilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Folder/File.cs</Value>
+    </Setting>
+	<Setting Name="FolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/Folder</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

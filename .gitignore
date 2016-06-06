@@ -1,0 +1,5 @@
+VstsMigration/TFS-VSTS-Migrate/packages/**
+VstsMigration/packages/**
+VstsMigration/TFS-VSTS-Migrate.v12.suo
+VstsMigration/TFS-VSTS-Migrate/bin/**
+VstsMigration/TFS-VSTS-Migrate/obj/**
