@@ -23,7 +23,9 @@ Several fields in the work items won't be migrated either intentionally or becau
 *   Work item Links - Adds a comment in the history informing that links exist (if they do) and linking to the old TFS work item.
 *   Commit Links available in TFS and are not migrated.
 
-In general, if there's anything missing in the work item in VSTS, just click the link in the first comment in the work item to navigate back to the original work item.
+In general, if there's anything missing in the work item in VSTS, just click the link in the first comment in the work item to navigate back to the original work item. Here's how your history will look like, on the migrated work item.
+![Migrated History screenshot](https://github.com/puviyarasan/vstsmigration/blob/master/MigratedHistory.png "Migrated History screenshot")
+
 
 ### Usage
 Usage:
