@@ -1,4 +1,4 @@
-### vstsmigration
+### TFS->VSTS work item migration
 Custom tool to migrate from TFS to VSTS
 This tool migrates a select set of fields from on-premise TFS to VSTS
 
