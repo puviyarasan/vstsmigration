@@ -44,7 +44,7 @@ TFS-VSTS-Migrate.exe "http://fabrikam:8080/tfs/Contoso_Collection" "https://fabr
 
 * This migration will show results in the console as well as writes a log file under the %Temp% directory.
 
-###Tips:
+### Tips:
 * Migrating assigned to values from Active Directory to AAD was tricky with VSTS. The 'Assigned To' values were not getting picked up and were failing during work item saves. One option is to ask the users to login to TFS before doing the migration, which will force the values across. Another alternative to force sync these user values is to assign all user values in the Assigned To column manually and save the work item.
 
 * For migration, the best approach is to run migration with Setup_Migration flag to true first. This will migrate all Area Paths and Iteration paths over. Once this is complete, verify the values and then run the migration with Migrate_Work_Items_Flag set to true. This will migrate the work items over.
