@@ -1,8 +1,8 @@
-### TFS->VSTS work item migration
+### TFS->Azure Devops (ADO/ VSTS) work item migration
 Custom tool to migrate from TFS to VSTS
 This tool migrates a select set of fields from on-premise TFS to VSTS
 
-### What TFS -> VSTS tool migrates?
+### What TFS -> Azure Devops (ADO/ VSTS) tool migrates?
 This tool migrated all work items matching this query:
 *	Status = Active or Resolved
 Type = Bug, User Story or Task
